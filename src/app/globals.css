@@ -24,3 +24,7 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+.text-outline {
+  -webkit-text-stroke: 1px black;
+}
+
